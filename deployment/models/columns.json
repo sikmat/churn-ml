@@ -1,0 +1,1 @@
+{"data_columns": ["tenure", "citytier", "warehousetohome", "hourspendonapp", "numberofdeviceregistered", "satisfactionscore", "numberofaddress", "complain", "orderamounthikefromlastyear", "couponused", "ordercount", "daysincelastorder", "cashbackamount", "gender_female", "gender_male", "maritalstatus_divorced", "maritalstatus_married", "maritalstatus_single"]}
